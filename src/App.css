@@ -569,7 +569,7 @@ p {
 /* Responsive */
 @media (max-width: 1008px) {
   .skills{
-    margin-right: 3rem;
+    margin-right: 2rem;
     
   }
   .skills-title {

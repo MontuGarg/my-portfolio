@@ -18,7 +18,7 @@ const ContactMe = () => {
         <a href="https://github.com/MontuGarg" target="_blank" rel="noopener noreferrer" className="contact-link">
         <img src={github} alt="" width={40}></img>
         </a>
-        <a href="mailto:garmontu3@gmail.com" className="contact-link">
+        <a href="mailto:gargmontu3@gmail.com" className="contact-link">
         <img src={gmail} alt="" width={40}></img>
         </a>
       </div>
